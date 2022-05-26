@@ -11,7 +11,7 @@
 
 👩🏽‍💻| I entered Henry's Fullstack Development bootcamp, and learned the main technologies used in web development (HTML, CSS, JavaScript, NodeJS, Express, React, Redux, SQL, Sequelize, among others) creating various projects from scratch. 
 
-🧩In addition, thanks to the experience in international business and project management, I´ve worked in multicultural and multidisciplinary environments. I have a great inclination for art in general and music in particular, I love languages, learning, finding new challenges and combining my different areas of interest to propose disruptive solutions.
+🧩In addition, thanks to the experience in international business and project management, I´ve worked in multicultural and multidisciplinary environments. I have a great inclination for art in general and music in particular, I love languages, learning, finding new challenges and combining my different areas of interest to propose disruptive solutions. I also look forward to learn about machine learning and AI.
 
 
 <h3>🛠 Tech Stack</h3>
@@ -25,10 +25,10 @@
 ```javascript
 const key = {
   pronouns: "she" | "her",
-  code: [Javascript,HTML, CSS]
+  code: [Javascript,HTML, CSS],
   tools: [React, Redux, Node, Material UI, bootstrap],
-  database: [PostgreSQL, Sequelize]
-  toLearn: [Python, TnesorFlow]
+  database: [PostgreSQL, Sequelize],
+  learning: [Python, TnesorFlow]
 }
 ```
 
