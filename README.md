@@ -8,7 +8,7 @@
 ## About ::
 
 👩🏽‍🎓| Hello, my name is Keyna and I am a Fullstack Developer with 1 year of successful experience in react, typescript and node js, fast learner, willing to thrive, learn new technologies and work long-term in challenging projects to keep growing as a developer. 
-<br>I also have previous experience as a Project Manager handling ICT, innovation ecosystem, startups, and foreign trade e-commerce projects. This has allowed me to adapt easily and develop skills such as time management, critical thinking, curiosity, research, sense of ownership, ability to work in many projects simultaneously, understand and prioritize tasks, as well as communicate efficiently and have good teamwork with different teams.
+<br>I also have previous experience as a Project Manager handling ICT, innovation ecosystem, startups, and foreign trade e-commerce projects. This has allowed me to adapt easily and develop skills such as time management, critical thinking, curiosity, research, sense of ownership, ability to work in many projects simultaneously, understand and prioritize tasks, as well as communicate efficiently and have good teamwork.
 
 
 🧩I enjoy working in multicultural and multidisciplinary environments. I love learning and combining my different areas of interest to find disruptive solutions.
